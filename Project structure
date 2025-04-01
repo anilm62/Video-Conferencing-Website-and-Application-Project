@@ -1,0 +1,13 @@
+video-conferencing-app/
+├── client/                  # Frontend code
+│   ├── public/             # Static files
+│   ├── src/                # React/Vue/Angular source files
+│   └── package.json        # Frontend dependencies
+├── server/                 # Backend code
+│   ├── routes/             # API routes
+│   ├── models/             # Database models
+│   └── package.json        # Backend dependencies
+├── docs/                   # Documentation
+│   └── REPORT.md           # Project report
+├── .gitignore              # Git ignore file
+└── README.md               # Project overview
